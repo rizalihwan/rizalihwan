@@ -8,5 +8,7 @@
 - 👯 I’m still learning everday and everytime
 - 🤔 I’m looking for help with google, youtube & stackoverflow
 - 📫 Personal Website : coming
-![Uploading one_piece_art_sabo_portgas_d_ace_luffy-wallpaper-2048x1152.jpg…]()
+
+![about](https://user-images.githubusercontent.com/55536560/100047082-2ba7c080-2e44-11eb-940d-56ee3c9c56e6.png)
+
 
