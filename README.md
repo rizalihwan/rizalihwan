@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rizal Ihwan & I'm a backend developer😎
+# I'm Rizal Ihwan & I'm a backend developer😎
 Laravel | Vue Js Dev
 
 - 🔭 I’m currently working on project - project freelance and tasks
