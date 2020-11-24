@@ -8,7 +8,7 @@
 - 👯 I’m still learning everday and everytime
 - 🤔 I’m looking for help with google, youtube & stackoverflow
 - 📫 Personal Website : coming
+![day19-apple-watch](https://user-images.githubusercontent.com/55536560/100047311-b8eb1500-2e44-11eb-92f5-0597048cd4c2.png)
 
-![about](https://user-images.githubusercontent.com/55536560/100047082-2ba7c080-2e44-11eb-940d-56ee3c9c56e6.png)
 
 
