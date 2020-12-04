@@ -1,10 +1,7 @@
-Backend & Mobile Developer. Flutter & Web Crawling Enthusiast.
+Backend Developer & Web Development.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true)
 
-### Hi there 👋
-
-# I'm Rizal Ihwan & I'm a backend developer😎
 ##### PHP Laravel
 
 - 🔭 I’m currently working on project - project freelance and tasks
