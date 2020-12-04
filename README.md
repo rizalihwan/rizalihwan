@@ -2,7 +2,7 @@ Backend Developer & Web Development.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true)
 
-##### PHP Laravel
+##### About Me
 
 - 🔭 I’m currently working on project - project freelance and tasks
 - 🌱 I’m like playing with Laravel
