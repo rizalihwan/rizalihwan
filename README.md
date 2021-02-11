@@ -8,7 +8,7 @@ Backend Developer & Web Development.
 - 🌱 I’m like playing with Laravel
 - 👯 I’m still learning everday and everytime
 - 🤔 I’m looking for help with google, youtube & stackoverflow
-- 📫 Personal Website : https://rizalihwan.netlify.app/
+- 📫 Personal Website : https://rizalihwan.netlify.app
 
 ![day19-apple-watch](https://user-images.githubusercontent.com/55536560/100047311-b8eb1500-2e44-11eb-92f5-0597048cd4c2.png)
 
