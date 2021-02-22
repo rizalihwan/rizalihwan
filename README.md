@@ -11,7 +11,6 @@ Backend Developer & Web Development.
 - 📫 Personal Website : https://rizalihwan.netlify.app
 
 ![Ow1T-min](https://user-images.githubusercontent.com/55536560/108715187-175f8680-754d-11eb-8a6d-62be6f7f857e.gif)
-![day19-apple-watch](https://user-images.githubusercontent.com/55536560/100047311-b8eb1500-2e44-11eb-92f5-0597048cd4c2.png)
 
 
 
