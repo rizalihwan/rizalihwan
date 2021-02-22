@@ -10,7 +10,7 @@ Backend Developer & Web Development.
 - 🤔 I’m looking for help with google, youtube, stackoverflow, etc.
 - 📫 Personal Website : https://rizalihwan.netlify.app
 
-![71Xy-min](https://user-images.githubusercontent.com/55536560/108714357-082c0900-754c-11eb-930a-c64af7f2ed3a.gif)
+<iframe src="https://gifer.com/embed/Ow1T" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 ![day19-apple-watch](https://user-images.githubusercontent.com/55536560/100047311-b8eb1500-2e44-11eb-92f5-0597048cd4c2.png)
 
 
