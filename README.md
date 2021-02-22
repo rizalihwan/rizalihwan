@@ -9,7 +9,7 @@ Backend Developer & Web Development.
 - 👯 I’m still learning everday and everytime
 - 🤔 I’m looking for help with google, youtube, stackoverflow, etc.
 - 📫 Personal Website : https://rizalihwan.netlify.app
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalihwan&theme=black">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalihwan&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618">
 
 ![day19-apple-watch](https://user-images.githubusercontent.com/55536560/100047311-b8eb1500-2e44-11eb-92f5-0597048cd4c2.png)
 
