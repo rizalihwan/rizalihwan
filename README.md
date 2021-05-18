@@ -5,7 +5,7 @@ Backend & Web Developer.
 ##### About Me
 
 - 🔭 I’m currently working on project - project freelance and tasks
-- 🌱 I’m like playing with PHP Laravel & Javascript
+- 🌱 I’m like playing with PHP (Laravel/Lumen) & Javascript
 - 👯 I’m still learning everday and everytime
 - 🤔 I’m looking for help with google, youtube, stackoverflow, etc.
 - 📫 Personal Website : https://rizalihwan.netlify.app
