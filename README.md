@@ -1,6 +1,6 @@
 Backend & Web Developer at PLN Icon Plus 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true&bg_color=96EFFF&title_color=FF004D&icon_color=FF004D&text_color=FF004D&show_owner=false)
+![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true&bg_color=44bcdc&title_color=FF004D&icon_color=FF004D&text_color=FF004D&show_owner=false)
 
 ##### About Me
 
