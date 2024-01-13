@@ -1,4 +1,4 @@
-Backend, Web Developer, Engineer Data Reconciliation & Technical Support at PLN Icon Plus 
+Backend Developer, Engineer Data Reconciliation & Technical Support at PLN Icon Plus 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true&bg_color=44bcdc&title_color=ffffff&icon_color=ffffff&text_color=ffffff&show_owner=false)
 
