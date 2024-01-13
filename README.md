@@ -7,7 +7,7 @@ Backend & Web Developer at PLN Icon Plus
 - I’m like playing with PHP (Laravel/Lumen) & Javascript (React JS, Next JS)
 - I’m still learning everday and everytime
 - I’m looking for help with AI, Google, Youtube, Stackoverflow & etc.
-- 📫 Personal Website : https://rizalihwan.netlify.app (maintenance)
+- Personal Website : https://rizalihwan.netlify.app (maintenance)
 
 ![Ow1T-min](https://user-images.githubusercontent.com/55536560/108715187-175f8680-754d-11eb-8a6d-62be6f7f857e.gif)
 
