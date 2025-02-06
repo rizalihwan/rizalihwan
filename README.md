@@ -4,7 +4,7 @@ Backend Developer, Engineer Data Reconciliation & Technical Support at PLN Icon 
 
 ##### About Me
 
-- I’m like playing with PHP (Laravel/Lumen) & Javascript (React JS, Next JS)
+- I’m like playing with PHP (Laravel/Lumen) & Golang (is deepening)
 - I’m still learning everday and everytime
 - I’m looking for help with AI, Google, Youtube, Stackoverflow & etc
 - Personal Website : https://rizalihwan.netlify.app 
