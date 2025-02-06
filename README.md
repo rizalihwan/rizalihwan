@@ -1,4 +1,4 @@
-Backend Developer, Engineer Data Reconciliation & Technical Support at PLN Icon Plus 
+Hello there, I am a fullstack web developer with more than 4 years experience. I have good experience in Web Development and writing code cleanly and neatly is my habit too.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true&bg_color=44bcdc&title_color=ffffff&icon_color=ffffff&text_color=ffffff&show_owner=false)
 
