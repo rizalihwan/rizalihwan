@@ -6,8 +6,6 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 Recently I tried to dive into Golang. I really like challenges and always learning new things.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true&bg_color=44bcdc&title_color=ffffff&icon_color=ffffff&text_color=ffffff&show_owner=false)
-
 ##### About Me
 
 - I’m like playing with PHP (Laravel/Lumen) & Golang (is deepening)
