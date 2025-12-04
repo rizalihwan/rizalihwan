@@ -6,34 +6,6 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 Recently I tried to dive into Golang. I really like challenges and always learning new things.
 
-<h1 align="center">Hi, I'm Rizal Ihwan 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/rizalihwan">
-    <img src="https://img.shields.io/badge/GitHub-rizalihwan-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Overview
-
-### ⭐ Stats
-- **Starred Repositories:** 129  
-- **Stars Earned:** 188  
-- **Contributed to:** 24 repositories  
-- **Issues Created:** 3  
-- **Pull Requests:** 42  
-- **Code Reviews:** 0  
-- **PR Code Changes:**  
-  - ➕ Additions: **+15,477**  
-  - ➖ Deletions: **−3,447**
-
----
-
-## 🧠 Most Used Languages
-
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=rizalihwan&show_icons=true&bg_color=44bcdc&title_color=ffffff&icon_color=ffffff&text_color=ffffff&show_owner=false)
 
 ##### About Me
